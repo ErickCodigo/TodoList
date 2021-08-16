@@ -1,4 +1,7 @@
-# Para iniciar con el proyecto deben:
+# Sobre este proyecto:
+Primer proyecto con Svelte - Listado de todo's
+
+### Para iniciar con el proyecto deben:
 
 ```bash
 # Clonar el repo
